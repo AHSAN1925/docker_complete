@@ -9,4 +9,4 @@ RUN apt-get update && apt-get install -y Nano
 RUN apt-get update && apt-get install -y vim
 
 # Expose port 80 to allow external access
-EXPOSE 80
+EXPOSE 82
